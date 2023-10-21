@@ -20,12 +20,12 @@ body {
 }
 /* Header */
 header {
-    background: linear-gradient(25deg, #6c7c67 30%, #60715a);
+    background: linear-gradient(25deg, #55684f 30%, #64755f);
 }
 
 #mb-logo {
-    width: 22vw;
-    height: 30vh;
+    width: 17vw;
+    height: 34vh;
 }
 /* Main Content */
 main {

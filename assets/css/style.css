@@ -5,6 +5,15 @@
     box-sizing:border-box;
 }
 
+/* General styles */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: #3a3a3a;
+}
 /* Header */
 header {
     background-color: azure;
@@ -13,9 +22,11 @@ header {
 /* Main Content */
 main {
     background-color: darkgray;
+    /* Make main element to take up all space available to push footer down */
+    flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: blue;
+    background-color: rgb(55, 92, 63);
 }

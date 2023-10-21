@@ -21,6 +21,11 @@ body {
 /* Header */
 header {
     background: linear-gradient(25deg, #55684f 30%, #64755f);
+    padding: 0 0;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px rgb(45, 63, 45);
 }
 
 #mb-logo {

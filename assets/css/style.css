@@ -20,9 +20,13 @@ body {
 }
 /* Header */
 header {
-    background-color: azure;
+    background: linear-gradient(25deg, #6c7c67 30%, #60715a);
 }
 
+#mb-logo {
+    width: 22vw;
+    height: 30vh;
+}
 /* Main Content */
 main {
     background-color: darkgray;

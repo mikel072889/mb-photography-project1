@@ -168,17 +168,76 @@ footer {
         border-bottom: 1px solid #F6ED9B;
     }
 
+    header {
+        height: 110px;
+    }
+
+    nav {
+        display: flex;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        top: 55px;
+        right: 0px;
+        height: 54px;
+    }
+    
+    #mb-logo {
+        width: 110px;
+    }
+    
     #logo-text {
-        position: absolute;
-        top: 15px;
-        right: 15px;
-        font-size: 450%;
-        letter-spacing: 8px;
+        position: fixed;
+        top: 10px;
+        right: 30px;
+        font-size: 200%;
+        letter-spacing: 17px;
     }
 
     #menu>li {
-        margin-left: 5rem;
-        font-size: 1rem;
+        font-size: 125%;
+        letter-spacing: 5px;
+        margin-left: 3rem;
     }
 }
 
+/* Media query: Large devices (Desktops 1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* Hover functionality */
+    #menu a:hover {
+        border-bottom: 1px solid #F6ED9B;
+    }
+
+        header {
+            height: 140px;
+        }
+    
+        nav {
+            display: flex;
+            position: relative;
+            width: fit-content;
+            padding-right: 1rem;
+            top: 40px;
+            right: 0px;
+            height: 75px;
+        }
+    
+        #mb-logo {
+            width: 140px;
+        }
+    
+        #logo-text {
+            position: fixed;
+            top: 45px;
+            left: 160px;
+            font-size: 280%;
+            letter-spacing: 14px;
+        }
+    
+        #menu>li {
+            font-size: 125%;
+            letter-spacing: 2px;
+            margin-left: 2rem;
+        }
+}

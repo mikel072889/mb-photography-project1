@@ -103,6 +103,7 @@ main {
     background-color: darkgray;
     /* Make main element to take up all space available to push footer down */
     flex: 1 0 auto;
+    margin-top: 70px;
 }
 
 /* Footer */

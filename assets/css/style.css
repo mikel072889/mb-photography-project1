@@ -50,14 +50,26 @@ header a {
 h1{
     font-family: "Lato", sans-serif;
     color: #f3efef;
-    font-size: x-large;
+    font-size: 125%;
 }
 
 #menu {
     list-style-type: none;
-    font-size: large;
-    letter-spacing: 3px;
+    color: #F6ED9B;
+    font-size: 100%;
+    letter-spacing: 5px;
+    margin-left: 1em;
+    margin-bottom: 1em;
 }
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active_page {
+    border-bottom: 1px solid #F6ED9B;
+}
+
 /* Main Content */
 main {
     background-color: darkgray;

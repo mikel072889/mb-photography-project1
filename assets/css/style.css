@@ -1,6 +1,6 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
 
 /* Asterisk wildcard selector to override default styling used by the browser */
 * {
@@ -26,6 +26,9 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 #mb-logo {
@@ -37,9 +40,11 @@ header {
 
 /* Make text Logo fit on the top-middle of the screen */
 #logo-text {
-    right: 60px;
-    top: 25px;
+    right: 35px;
+    top: 18px;
     position: absolute;
+    letter-spacing: 1px;
+    color: #CEB66D;
 } 
 
 header a {
@@ -48,8 +53,7 @@ header a {
 }
 
 h1{
-    font-family: "Lato", sans-serif;
-    color: #f3efef;
+    font-family: "Montserrat", sans-serif;
     font-size: 125%;
 }
 
@@ -63,10 +67,11 @@ h1{
 }
 
 #menu > li {
+    margin-top: 1em;
     margin-bottom: 1em;
 }
 
-.active_page {
+.active-page {
     border-bottom: 1px solid #F6ED9B;
 }
 
@@ -78,6 +83,19 @@ nav {
     left: 0;
     padding: 0 1rem;
     display: none;
+    top: 100%;
+}
+/* Menu Toggle */
+#toggle-menu:checked~nav {
+    display: block;
+}
+
+#toggle-menu {
+    display: none;
+}
+
+.toggle-menu-label {
+    font-size: 2rem;
 }
 
 /* Main Content */

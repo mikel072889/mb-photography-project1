@@ -70,6 +70,16 @@ h1{
     border-bottom: 1px solid #F6ED9B;
 }
 
+/* Navigation bar style with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #55684f;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+}
+
 /* Main Content */
 main {
     background-color: darkgray;

@@ -21,7 +21,7 @@ body {
 }
 /* Header */
 header {
-    background: linear-gradient(45deg, #55684f 50%, #64755f);
+    background: linear-gradient(45deg, #55684f 50%, #8aa082);
     padding: 0 0;
     position: fixed;
     z-index: 99;
@@ -40,8 +40,8 @@ header {
 
 /* Make text Logo fit on the top-middle of the screen */
 #logo-text {
-    right: 35px;
-    top: 18px;
+    right: 29px;
+    top: 20px;
     position: absolute;
     letter-spacing: 1px;
     color: #CEB66D;
@@ -55,6 +55,7 @@ header a {
 h1{
     font-family: "Montserrat", sans-serif;
     font-size: 125%;
+    margin: 0;
 }
 
 #menu {
@@ -109,4 +110,39 @@ main {
 /* Footer */
 footer {
     background-color: rgb(55, 92, 63);
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: flex;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+    
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        margin-left: 1rem;
+    }
+
+    #mb-logo {
+        width: 17vw;
+        height: 22vh;
+    }
+
+    #logo-text {
+        position: absolute ;
+        top: 15px;
+        right: 15px;
+        font-size: 250%;
+    }
+
+    .toggle-menu-label {
+        display: none;
+    }
 }

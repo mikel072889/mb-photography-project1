@@ -32,16 +32,17 @@ header {
 }
 
 #mb-logo {
-    width: 25%;
-    height: 100%;
-    position: relative;
+    width: 43px;
+    height: auto;
+    position: fixed;
     left: 0px;
+    top: 0px;
 }
 
 /* Make text Logo fit on the top-middle of the screen */
 #logo-text {
-    right: 29px;
-    top: 20px;
+    right: 40px;
+    top: 10px;
     position: absolute;
     letter-spacing: 1px;
     color: #CEB66D;
@@ -104,7 +105,7 @@ main {
     background-color: darkgray;
     /* Make main element to take up all space available to push footer down */
     flex: 1 0 auto;
-    margin-top: 70px;
+    margin-top: 43px;
 }
 
 /* Footer */
@@ -115,32 +116,38 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
+    header {
+        height: 90px;
+    }
+
     nav {
         display: flex;
         position: relative;
         width: fit-content;
         padding-right: 1rem;
+        top: 45px;
+        right: 0px;
+        height: 44px;
     }
     
+    #mb-logo {
+        width: 90px;
+        }
+
+    #logo-text {
+        position: fixed;
+        top: 7px;
+        right: 25px;
+        font-size: 175%;
+        letter-spacing: 6px;
+    }
+
     #menu {
         display: flex;
     }
 
     #menu > li {
         margin-left: 1rem;
-    }
-
-    #mb-logo {
-        width: 15vw;
-        height: 20vh;
-    }
-
-    #logo-text {
-        position: absolute ;
-        top: 15px;
-        right: 15px;
-        font-size: 250%;
-        letter-spacing: 5px;
     }
 
     .toggle-menu-label {
@@ -150,6 +157,28 @@ footer {
     /* Main Content */
     main {
         /* Make main element to take up all space available to push footer down */
-        margin-top: 150px;
+        margin-top: 47px;
     }
 }
+
+/* Media query: Large devices ( Laptops and desktops 992px and up) */
+@media screen and (min-width: 992px) {
+    /* Hover functionality */
+    #menu a:hover {
+        border-bottom: 1px solid #F6ED9B;
+    }
+
+    #logo-text {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        font-size: 450%;
+        letter-spacing: 8px;
+    }
+
+    #menu>li {
+        margin-left: 5rem;
+        font-size: 1rem;
+    }
+}
+

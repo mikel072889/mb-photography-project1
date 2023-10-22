@@ -157,7 +157,7 @@ footer {
     /* Main Content */
     main {
         /* Make main element to take up all space available to push footer down */
-        margin-top: 47px;
+        margin-top: 90px;
     }
 }
 
@@ -199,6 +199,12 @@ footer {
         letter-spacing: 5px;
         margin-left: 3rem;
     }
+
+    /* Main Content */
+    main {
+        /* Make main element to take up all space available to push footer down */
+        margin-top: 110px;
+    }
 }
 
 /* Media query: Large devices (Desktops 1200px and up) */
@@ -209,35 +215,41 @@ footer {
         border-bottom: 1px solid #F6ED9B;
     }
 
-        header {
-            height: 140px;
-        }
+    header {
+        height: 140px;
+    }
     
-        nav {
-            display: flex;
-            position: relative;
-            width: fit-content;
-            padding-right: 1rem;
-            top: 40px;
-            right: 0px;
-            height: 75px;
-        }
+    nav {
+        display: flex;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        top: 40px;
+        right: 0px;
+        height: 75px;
+    }
     
-        #mb-logo {
-            width: 140px;
-        }
+    #mb-logo {
+        width: 140px;
+    }
     
-        #logo-text {
-            position: fixed;
-            top: 45px;
-            left: 160px;
-            font-size: 280%;
-            letter-spacing: 14px;
-        }
+    #logo-text {
+        position: fixed;
+        top: 45px;
+        left: 160px;
+        font-size: 280%;
+        letter-spacing: 14px;
+    }
     
-        #menu>li {
-            font-size: 125%;
-            letter-spacing: 2px;
-            margin-left: 2rem;
-        }
+    #menu>li {
+        font-size: 125%;
+        letter-spacing: 2px;
+        margin-left: 2rem;
+    }
+
+    /* Main Content */
+    main {
+        /* Make main element to take up all space available to push footer down */
+        margin-top: 140px;
+    }
 }

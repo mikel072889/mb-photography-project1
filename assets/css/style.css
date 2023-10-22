@@ -131,8 +131,8 @@ footer {
     }
 
     #mb-logo {
-        width: 17vw;
-        height: 22vh;
+        width: 15vw;
+        height: 20vh;
     }
 
     #logo-text {
@@ -140,9 +140,16 @@ footer {
         top: 15px;
         right: 15px;
         font-size: 250%;
+        letter-spacing: 5px;
     }
 
     .toggle-menu-label {
         display: none;
+    }
+
+    /* Main Content */
+    main {
+        /* Make main element to take up all space available to push footer down */
+        margin-top: 150px;
     }
 }

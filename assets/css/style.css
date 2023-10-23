@@ -195,6 +195,21 @@ footer {
         /* Make main element to take up all space available to push footer down */
         margin-top: 90px;
     }
+
+    /* Footer */
+    .footer-header-contacts {
+        padding-top: 10px;
+    }
+
+    #social-media {
+        justify-content: center;
+    }
+
+    #social-media i {
+        font-size: 220%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 }
 
 /* Media query: Large devices ( Laptops and desktops 992px and up) */
@@ -241,6 +256,9 @@ footer {
         /* Make main element to take up all space available to push footer down */
         margin-top: 110px;
     }
+
+    /* Footer */
+    
 }
 
 /* Media query: Large devices (Desktops 1200px and up) */

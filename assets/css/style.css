@@ -113,8 +113,35 @@ main {
 
 /* Footer */
 footer {
-    background: linear-gradient(15deg, #CEB66D 10%, #55684f);
+    background: linear-gradient(10deg, #CEB66D 10%, #55684f);
 }
+
+#social-media {
+    text-align: center;
+    padding: 15px 15px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#social-media i {
+    font-size: 160%;
+}
+
+#footer-contacts {
+    text-align: center;
+    color: #ffffff;
+    font-size: 75%;
+    padding-bottom: 15px;
+}
+
+.footer-header {
+    padding-top: 5px;
+    text-align: center;
+    color: #f8db84 ;
+}
+
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {

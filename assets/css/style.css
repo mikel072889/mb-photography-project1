@@ -258,8 +258,25 @@ footer {
     }
 
     /* Footer */
-    
+    #footer-contacts {
+        display: none;
+    }
+
+    #social-media i {
+        font-size: 130%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #copyright {
+        font-size: 60%;
+        color: #ffffff;
+        padding-top: 1px;
+        padding-bottom: 10px;
+    }
 }
+
+
 
 /* Media query: Large devices (Desktops 1200px and up) */
 @media screen and (min-width: 1200px) {
@@ -290,7 +307,7 @@ footer {
     #logo-text {
         position: fixed;
         top: 45px;
-        left: 160px;
+        left: 145px;
         font-size: 280%;
         letter-spacing: 10px;
     }

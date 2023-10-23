@@ -276,8 +276,6 @@ footer {
     }
 }
 
-
-
 /* Media query: Large devices (Desktops 1200px and up) */
 @media screen and (min-width: 1200px) {
 
@@ -287,7 +285,7 @@ footer {
     }
 
     header {
-        height: 140px;
+        height: 100px;
     }
     
     nav {
@@ -295,21 +293,21 @@ footer {
         position: relative;
         width: fit-content;
         padding-right: 1rem;
-        top: 40px;
+        top: 30px;
         right: 0px;
-        height: 75px;
+        height: 70px;
     }
     
     #mb-logo {
-        width: 140px;
+        width: 100px;
     }
     
     #logo-text {
         position: fixed;
-        top: 45px;
-        left: 145px;
-        font-size: 280%;
-        letter-spacing: 10px;
+        top: 30px;
+        left: 135px;
+        font-size: 260%;
+        letter-spacing: 12px;
     }
     
     #menu>li {
@@ -321,6 +319,6 @@ footer {
     /* Main Content */
     main {
         /* Make main element to take up all space available to push footer down */
-        margin-top: 140px;
+        margin-top: 100px;
     }
 }

@@ -141,7 +141,14 @@ footer {
     color: #f8db84 ;
 }
 
-
+#copyright {
+    text-align: center;
+    font-size: 50%;
+    text-decoration: solid;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {

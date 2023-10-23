@@ -81,7 +81,7 @@ h1{
 /* Navigation bar style with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #55684f;
+    background: linear-gradient(30deg, #55684f 50%, #8aa082);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -125,7 +125,7 @@ footer {
 }
 
 #social-media i {
-    font-size: 160%;
+    font-size: 140%;
 }
 
 #footer-contacts {
@@ -146,7 +146,7 @@ footer {
     font-size: 50%;
     text-decoration: solid;
     color: #ffffff;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: 15px;
 }
 

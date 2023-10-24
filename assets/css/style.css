@@ -116,7 +116,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/hero2.webp") no-repeat center center/cover;
+    background: url("../images/herob1.webp") no-repeat center center/cover;
 }
 
 /* Footer */
@@ -206,7 +206,7 @@ footer {
 
     /* Hero */
     #hero {
-        background: url("../images/hero.webp") no-repeat center center/cover;
+        background: url("../images/herob2.webp") no-repeat center center/cover;
     }
     /* Footer */
     .footer-heading-contacts {

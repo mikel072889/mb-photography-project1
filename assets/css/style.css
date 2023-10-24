@@ -19,6 +19,13 @@ body {
     color: #33683f;
     font-family: "Montserrat", sans-serif;
 }
+
+h1, h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 125%;
+    margin: 0;
+}
+
 /* Header */
 header {
     background: linear-gradient(45deg, #55684f 50%, #8aa082);
@@ -52,12 +59,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1{
-    font-family: "Montserrat", sans-serif;
-    font-size: 125%;
-    margin: 0;
 }
 
 #menu {
@@ -117,6 +118,12 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/herob1.webp") no-repeat center center/cover;
+}
+
+#cover-text {
+    background: rgba(166, 153, 10, .7);
+    font-size: 130%;
+    text-align: left;
 }
 
 /* Footer */

@@ -385,6 +385,13 @@ footer {
         margin-top: 100px;
     }
 
+    /* Hero */
+    #cover-text {
+        font-size: 123%;
+        width: 53%;
+        min-height: 65px;
+    }
+
     /* Footer */
     #footer-contacts {
         display: none;

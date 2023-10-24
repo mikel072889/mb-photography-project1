@@ -118,12 +118,20 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/herob1.webp") no-repeat center center/cover;
+    position: relative;
 }
 
 #cover-text {
     background: rgba(166, 153, 10, .7);
-    font-size: 130%;
+    position: absolute;
+    top: 15px;
     text-align: left;
+    font-size: 110%;
+    color: #b6f3be;
+    width: 85%;
+    min-height: 110px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 0px 30px 30px 0px;
 }
 
 /* Footer */
@@ -215,6 +223,7 @@ footer {
     #hero {
         background: url("../images/herob2.webp") no-repeat center center/cover;
     }
+
     /* Footer */
     .footer-heading-contacts {
         padding-top: 10px;

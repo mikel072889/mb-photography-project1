@@ -321,4 +321,31 @@ footer {
         /* Make main element to take up all space available to push footer down */
         margin-top: 100px;
     }
+
+    /* Footer */
+    #footer-contacts {
+        display: none;
+    }
+
+    #social-media {
+        justify-content: space-evenly;
+        padding-bottom: 1px;
+    }
+
+    .footer-header {
+        display: none;
+    }
+
+    #social-media i {
+        font-size: 200%;
+    }
+
+    #copyright {
+        display: flex;
+        justify-content: end;
+        font-size: 60%;
+        color: #ffffff;
+        padding-top: 1px;
+        padding-bottom: 10px;
+    }
 }

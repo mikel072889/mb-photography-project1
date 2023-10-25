@@ -170,25 +170,24 @@ footer {
 
 #social-media {
     text-align: center;
-    padding: 15px 15px;
+    padding: 5px 5px;
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
 }
 
 #social-media i {
-    font-size: 140%;
+    font-size: 200%;
 }
 
 #footer-contacts {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
     color: #ffffff;
-    font-size: 75%;
-    padding-bottom: 15px;
+    font-size: 80%;
 }
 
 .footer-heading {
-    padding-top: 5px;
     text-align: center;
     color: #f8db84 ;
 }
@@ -197,7 +196,7 @@ footer {
     text-align: center;
     font-size: 50%;
     color: #ffffff;
-    padding-top: 10px;
+    padding-top: 1px;
     padding-bottom: 15px;
 }
 

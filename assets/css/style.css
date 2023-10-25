@@ -170,7 +170,16 @@ main {
 
 #reviews {
     display: flex;
+    flex-direction: column;
+    background: linear-gradient(30deg, #55684f 50%, #8aa082) ;
 }
+
+#reviews h3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+
 
 /* Footer */
 footer {

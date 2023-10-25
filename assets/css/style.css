@@ -51,7 +51,7 @@ header {
 #logo-text {
     right: 40px;
     top: 10px;
-    position: absolute;
+    position: fixed;
     letter-spacing: 1px;
     color: #CEB66D;
 } 
@@ -142,23 +142,18 @@ main {
     text-shadow: #55684f;
 }
 
-#aboutme-photo {
-    height: 90vw;
-    width: 90vw;
-    background: url(../images/aboutmephoto.webp) no-repeat top center/cover;
-    margin-top: 20px;
-    margin-left: 40px;
-    max-width: 200px;
-    max-height: 400px;
+#aboutme-photo-and-caption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-#aboutme {
-    background: rgba(206, 182, 109, .5);
-    position: relative;
-    text-align: left;
-    width: 80%;
-    margin-left: 28px;
-    padding: 10px 20px 20px 20px;
+#aboutme-photo {
+    height: 120vw;
+    width: 90vw;
+    background: url(../images/aboutmephoto.webp) no-repeat top center/cover;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 /* Footer */

@@ -161,7 +161,7 @@ main {
     max-height: 300px;
 }
 
-#aboutme-caption {
+#aboutme-caption, #gallery-link {
     background: rgba(129, 114, 68, 0.3);
     width: 90%;
     padding: 5px 20px 20px 20px;
@@ -195,6 +195,10 @@ main {
 
 .hidden-review {
     display: none;
+}
+
+.links-within-page {
+    text-decoration-color: #b6f3be;
 }
 
 /* Footer */

@@ -552,6 +552,25 @@ footer {
         min-height: 65px;
     }
 
+    /* About section */
+    #index-about > h3 {
+        font-size: 200%;
+    }
+
+    #aboutme-photo-and-caption {
+        flex-direction: row;
+        padding: 20px;
+    }
+
+    #aboutme-photo {
+        max-width: 1400px;
+        max-height: 850px;
+    }
+
+    #aboutme-caption > h4, p {
+        font-size: 170%;
+    }
+
     /* Reviews section */
     .reviews {
         width: 30vw;

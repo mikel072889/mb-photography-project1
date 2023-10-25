@@ -179,7 +179,7 @@ main {
 
 /* Reviews section */
 
-#reviews {
+#reviews, #all-reviews {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -333,7 +333,6 @@ footer {
     }
 
     /* Reviews section */
-
    
     /* Footer */
     .footer-heading-contacts {
@@ -443,6 +442,42 @@ footer {
     #aboutme-caption > h4, p {
         font-size: 120%;
     }
+
+    /* Reviews section */
+
+    #reviews {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(35deg, #55684f 50%, #8aa082);
+    }
+
+    #all-reviews {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .alternate {
+        background: linear-gradient(35deg, rgba(138, 160, 130, 0.5), rgba(85, 104, 79, 0.5));
+    }
+
+    .hidden-review {
+        display: block;
+    }
+
+    #review-link {
+        display: none;
+    }
+
+    .reviews {
+        width: 30vw;
+        padding: 5px 20px 5px 20px;
+        height: 35vh;
+        margin: 10px;
+    }
+
+
+
     /* Footer */
     #footer-contacts {
         display: none;

@@ -197,10 +197,6 @@ main {
     display: none;
 }
 
-.links-within-page {
-    text-decoration-color: #b6f3be;
-}
-
 /* Footer */
 footer {
     background: linear-gradient(10deg, #CEB66D 10%, #55684f);

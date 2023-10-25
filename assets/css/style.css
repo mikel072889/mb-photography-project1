@@ -161,10 +161,14 @@ main {
     max-height: 300px;
 }
 
-#aboutme-caption, #gallery-link {
+#aboutme-caption {
     background: rgba(129, 114, 68, 0.3);
     width: 90%;
     padding: 5px 20px 20px 20px;
+}
+
+#gallery-link {
+    padding-top: 20px;
 }
 
 /* Reviews section */
@@ -317,11 +321,14 @@ footer {
     #aboutme-caption {
         background: rgba(65, 57, 33, 0.4);
         position: absolute;
-        left: 30px;
+        left: 40px;
         width: 45%;
         padding: 5px 20px 20px 20px;
     }
 
+    /* Reviews section */
+
+   
     /* Footer */
     .footer-heading-contacts {
         padding-top: 10px;

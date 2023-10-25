@@ -26,6 +26,14 @@ h1, h2 {
     margin: 0;
 }
 
+/* Internal / Text links style */
+
+/* Unvisited link */
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* Header */
 header {
     background: linear-gradient(45deg, #55684f 50%, #8aa082);

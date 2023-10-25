@@ -264,6 +264,11 @@ footer {
 
     /* About section */
 
+
+    #index-about > h3 {
+        font-size: 150%;
+    }
+    
     #aboutme-photo-and-caption {
         flex-direction: row;
         padding: 10px;

@@ -150,6 +150,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 20px;
 }
 
 #aboutme-photo {
@@ -174,22 +175,26 @@ main {
     justify-content: center;
     align-items: center;
     background: linear-gradient(30deg, #55684f 50%, #8aa082);
-    
 }
 
 #reviews h3 {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .reviews {
     background: linear-gradient(to right, rgba(138, 160, 130, 0.5), rgba(85, 104, 79, 0.5));
     width: 90%;
-    padding: 20px 20px 20px 20px;
+    padding: 5px 20px 20px 20px;
 }
 
 .alternate {
     background: linear-gradient(to left, rgba(138, 160, 130, 0.5), rgba(85, 104, 79, 0.5));
+}
+
+.hidden-review {
+    display: none;
 }
 
 /* Footer */

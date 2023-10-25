@@ -567,8 +567,8 @@ footer {
         max-height: 850px;
     }
 
-    #aboutme-caption > h4, p {
-        font-size: 170%;
+    .aboutme-caption {
+        font-size: 150%;
     }
 
     /* Reviews section */
@@ -577,6 +577,11 @@ footer {
         padding: 5px 20px 5px 20px;
         height: 25vh;
         margin: 10px;
+    }
+
+    #reviews h3 {
+        font-size: 200%;
+        color: #ffffff;
     }
     /* Footer */
     #footer-contacts {

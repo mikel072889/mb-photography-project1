@@ -134,6 +134,8 @@ main {
     border-radius: 0px 30px 30px 0px;
 }
 
+/* About Section */
+
 #index-about > h3, h4, p {
     margin-top: 20px;
     text-align: center;
@@ -258,6 +260,30 @@ footer {
         width: 90%;
         min-height: 65px;
         border-radius: 0px 30px 30px 0px;
+    }
+
+    /* About section */
+
+    #aboutme-photo-and-caption {
+        flex-direction: row;
+        padding: 10px;
+    }
+
+    #aboutme-photo {
+        background: url(../images/aboutmephoto2.webp) no-repeat top center/cover;
+        position: relative;
+        height: 400vh;
+        width: 700vw;
+        max-width: 900px;
+        max-height: 500px;
+    }
+
+    #aboutme-caption {
+        background: rgba(97, 86, 51, 0.3);
+        position: absolute;
+        left: 10px;
+        width: 45%;
+        padding: 5px 20px 20px 20px;
     }
 
     /* Footer */

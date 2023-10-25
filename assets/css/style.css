@@ -144,16 +144,23 @@ main {
 
 #aboutme-photo-and-caption {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
 #aboutme-photo {
-    height: 120vw;
-    width: 90vw;
+    height: 140vw;
+    width: 75vw;
     background: url(../images/aboutmephoto.webp) no-repeat top center/cover;
     max-width: 300px;
     max-height: 300px;
+}
+
+#aboutme-caption {
+    background: rgba(129, 114, 68, 0.3);
+    width: 90%;
+    padding: 5px 20px 20px 20px;
 }
 
 /* Footer */

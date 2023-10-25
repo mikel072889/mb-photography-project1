@@ -28,10 +28,8 @@ h1, h2 {
 
 /* Internal / Text links style */
 
-/* Unvisited link */
-a:link {
+a {
     color: #ffffff;
-    text-decoration: none;
 }
 
 /* Header */

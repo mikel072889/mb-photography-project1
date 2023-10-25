@@ -476,7 +476,9 @@ footer {
         margin: 10px;
     }
 
-
+    .clients {
+        text-align: right;        
+    }
 
     /* Footer */
     #footer-contacts {

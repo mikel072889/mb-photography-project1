@@ -552,6 +552,13 @@ footer {
         min-height: 65px;
     }
 
+    /* Reviews section */
+    .reviews {
+        width: 30vw;
+        padding: 5px 20px 5px 20px;
+        height: 25vh;
+        margin: 10px;
+    }
     /* Footer */
     #footer-contacts {
         display: none;

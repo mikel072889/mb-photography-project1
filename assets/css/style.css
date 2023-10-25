@@ -171,7 +171,10 @@ main {
 #reviews {
     display: flex;
     flex-direction: column;
-    background: linear-gradient(30deg, #55684f 50%, #8aa082) ;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(30deg, #55684f 50%, #8aa082);
+    
 }
 
 #reviews h3 {
@@ -179,7 +182,15 @@ main {
     padding-top: 10px;
 }
 
+.reviews {
+    background: linear-gradient(to right, rgba(138, 160, 130, 0.5), rgba(85, 104, 79, 0.5));
+    width: 90%;
+    padding: 20px 20px 20px 20px;
+}
 
+.alternate {
+    background: linear-gradient(to left, rgba(138, 160, 130, 0.5), rgba(85, 104, 79, 0.5));
+}
 
 /* Footer */
 footer {
@@ -286,7 +297,7 @@ footer {
 
     #aboutme-photo-and-caption {
         flex-direction: row;
-        padding: 10px;
+        padding: 20px;
     }
 
     #aboutme-photo {

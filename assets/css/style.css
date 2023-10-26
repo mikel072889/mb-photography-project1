@@ -254,6 +254,11 @@ input {
     background-color: rgba(218, 216, 211, 0.5);
 }
 
+button {
+    color: #ffffff;
+    background: linear-gradient(10deg, #CEB66D 10%, #55684f);
+    font-size: 1.1em;
+}
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/
 #contact h2{
     display: none;

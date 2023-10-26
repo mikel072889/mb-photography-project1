@@ -214,6 +214,32 @@ main h1 {
     display: none;
 }
 
+/* Contacts and FAQs section */
+/* Contacts */
+
+/* Apply different background image for the contacts page */
+
+#main-contact {
+    background: url("../images/contactbg2.webp") no-repeat center center/cover;
+}
+#contact h2, p {
+    text-align: center;
+    padding-top: 10px;
+    color: #33683f;
+}
+
+form {
+    padding: 10px;
+    border-radius: 8px;
+    margin: 25px 10px;
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Footer */
 footer {
     background: linear-gradient(10deg, #CEB66D 10%, #55684f);

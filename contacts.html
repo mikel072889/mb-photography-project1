@@ -45,12 +45,12 @@
     </header>
 
     <!-- Main Content-->
-    <main>
+    <main id="main-contact">
         <section id="contact-and-faqs">
             <div id="contact">
                 <h2>Contact</h2>
                 <p>For enquiries, bookings, and collaborations, please fill the form:</p>
-                <form action="received-form.html" method="POST"></form>
+                <form action="received-form.html" method="POST">
                 <fieldset>
                     <legend>Name (required)</legend>
                     <label for="first-name">First Name</label>
@@ -73,13 +73,13 @@
                     <input type="checkbox" id="travel" name="travel">
                     <label for="travel">Travel</label>
                 </fieldset>
-                <label for="message" id="message" name="message">Message (required)</label>
+                <label for="message-textarea">Message (required)</label>
                 <textarea id="message-textarea" name="message-textarea" 
-                placeholder="Tell us about your photography needs" rows="10" cols="30">
+                placeholder="Tell us about your photography needs">
                 </textarea>
                 <button type="submit"><strong>Send!</strong></button>
                 <button type="reset">Reset form</button>
-                
+                </form>
                 
 
 

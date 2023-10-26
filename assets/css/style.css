@@ -233,11 +233,17 @@ form {
     border-radius: 8px;
     margin: 25px 10px;
     background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
+    
 }
 
 #form {
     display: flex;
     flex-direction: column;
+}
+
+#message-textarea {
+    max-width: 100%;
+    color: #8aa082;
 }
 
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/

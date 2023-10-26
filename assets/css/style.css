@@ -222,7 +222,7 @@ main h1 {
 #main-contact {
     background: url("../images/contactbg2.webp") no-repeat center center/cover;
 }
-#contact h2, p {
+#contact-and-faqs h2, p {
     text-align: center;
     padding-top: 10px;
     color: #33683f;
@@ -235,9 +235,13 @@ form {
     background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
 }
 
-#contact {
+#form {
     display: flex;
     flex-direction: column;
+}
+
+#contact h2{
+    display: none;
 }
 
 /* Footer */

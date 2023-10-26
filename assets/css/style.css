@@ -519,9 +519,9 @@ footer {
     nav {
         display: flex;
         position: relative;
-        width: fit-content;
+        width: 53vw;
         padding-right: 1rem;
-        top: 30px;
+        top: 20px;
         right: 0px;
         height: 70px;
     }
@@ -531,10 +531,11 @@ footer {
     }
     
     #logo-text {
-        position: fixed;
+        position: absolute;
+        z-index: 99;
         top: 30px;
-        left: 135px;
-        font-size: 260%;
+        left: 120px;
+        font-size: 240%;
         letter-spacing: 12px;
     }
     

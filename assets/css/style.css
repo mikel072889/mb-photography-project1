@@ -244,6 +244,7 @@ form {
 #message-textarea {
     max-width: 100%;
     color: #8aa082;
+    background-color: rgba(218, 216, 211, 0.5);
 }
 
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/

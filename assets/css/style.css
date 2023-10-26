@@ -240,6 +240,7 @@ form {
     flex-direction: column;
 }
 
+/* Hide Contact h2 heading to avoid repetition of display for mobile devices*/
 #contact h2{
     display: none;
 }

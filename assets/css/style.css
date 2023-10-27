@@ -222,11 +222,16 @@ main h1 {
 #main-contact {
     background: url("../images/contactbg2.webp") no-repeat center center/cover;
 }
-#contact-and-faqs h2, p {
+#contact-and-faqs > h2 {
     text-align: center;
     padding-top: 10px;
     color: #33683f;
 }
+
+#contact p {
+    color: #33683f;
+}
+
 
 form {
     padding: 10px;

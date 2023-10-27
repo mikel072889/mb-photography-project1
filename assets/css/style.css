@@ -224,21 +224,20 @@ main h1 {
 }
 #contact-and-faqs > h2 {
     text-align: center;
-    padding-top: 10px;
+    padding: 10px;
     color: #33683f;
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.9))
 }
 
 #contact p {
     color: #33683f;
 }
 
-
 form {
     padding: 10px;
     border-radius: 8px;
     margin: 25px 10px;
     background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
-    
 }
 
 #form {
@@ -264,6 +263,36 @@ button {
     background: linear-gradient(10deg, #CEB66D 10%, #55684f);
     font-size: 1.1em;
 }
+
+/* FAQ section */
+#all-faqs {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 25px 10px;
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
+}
+
+.faqs {
+    background-color: rgba(218, 216, 211, 0.5);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+#faqs > h2 {
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.9))
+}
+
+.questions {
+    color: #313131;
+    text-decoration: underline;
+}
+
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/
 #contact h2{
     display: none;

@@ -275,7 +275,7 @@ button {
 }
 
 .faqs {
-    background-color: rgba(218, 216, 211, 0.5);
+    background-color: rgba(126, 126, 122, 0.4);
     padding: 5px;
     margin: 5px;
     border-radius: 8px;
@@ -289,8 +289,11 @@ button {
 }
 
 .questions {
-    color: #313131;
     text-decoration: underline;
+}
+
+.answers {
+    font-style: italic;
 }
 
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/

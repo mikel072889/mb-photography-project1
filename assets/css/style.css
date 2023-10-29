@@ -646,7 +646,6 @@ footer {
     
     #logo-text {
         position: absolute;
-        z-index: 99;
         top: 30px;
         left: 120px;
         font-size: 240%;

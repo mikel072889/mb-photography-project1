@@ -263,6 +263,25 @@ button {
     font-size: 1.1em;
 }
 
+/* Received-form styles */
+#received-form-main-content { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url("../images/contactbg.webp") no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
+}
+
+#received-form-message {
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.7));
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color:#ffffff;
+    border-radius: 25px;
+}
+
 /* FAQ section */
 #all-faqs {
     display: flex;

@@ -153,6 +153,7 @@ main h1 {
 .photos img {
     width: 100%;
     line-height: 1em;
+    padding: 10px;
 }
 
 .photos {

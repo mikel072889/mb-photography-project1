@@ -476,10 +476,6 @@ footer {
         column-gap: 0;
     }
 
-    .hidden-photo {
-        display: block;
-    }
-
     /* About section */
 
     #index-about > h3 {
@@ -621,6 +617,10 @@ footer {
     /* Gallery Page */
     .photos {
         column-count: 3;
+    }
+
+    .hidden-photo {
+        display: block;
     }
 
     /* About Section */

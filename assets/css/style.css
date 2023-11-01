@@ -150,6 +150,16 @@ main h1 {
 
 /* Gallery Page */
 
+.title-photos>h2 {
+    color: #ffffff;
+}
+
+.slogan-photos {
+    color: #ffffff;
+    background: linear-gradient(10deg, #CEB66D 10%, #55684f);
+    border-radius: 15px;
+}
+
 .photos img {
     width: 100%;
     line-height: 1em;
@@ -167,6 +177,10 @@ main h1 {
 
 .hidden-photo {
     display: none;
+}
+
+#wedding {
+    background: linear-gradient(150deg, rgba(106, 107, 106, 0.5), rgba(197, 197, 197, 0.5))
 }
 
 /* About Section */

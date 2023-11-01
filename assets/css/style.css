@@ -163,8 +163,10 @@ main h1 {
 #main-gallery>section {
     text-align: center;
     padding: 10px;
-    color: #33683f;
-    background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.9))
+}
+
+.hidden-photo {
+    display: none;
 }
 
 /* About Section */

@@ -254,6 +254,10 @@ main h1 {
     display: none;
 }
 
+#hidden-heading {
+    display: none;
+}
+
 /* Contacts and FAQs section */
 /* Contacts */
 

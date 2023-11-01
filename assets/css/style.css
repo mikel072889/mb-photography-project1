@@ -159,6 +159,7 @@ main h1 {
 
 .slogan-photos {
     color: #ffffff;
+    font-size: 1em;
     background: linear-gradient(10deg, #CEB66D 10%, #55684f);
     border-radius: 0px 0px 20px 20px;
     padding: 5px;
@@ -183,7 +184,7 @@ main h1 {
     display: none;
 }
 
-#wedding {
+#wedding, #events {
     background: linear-gradient(150deg, rgba(106, 107, 106, 0.5), rgba(197, 197, 197, 0.5))
 }
 

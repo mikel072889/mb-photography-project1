@@ -742,8 +742,8 @@ footer {
         position: absolute;
         top: 30px;
         left: 120px;
-        font-size: 240%;
-        letter-spacing: 12px;
+        font-size: 250%;
+        letter-spacing: 7px;
     }
     
     #menu>li {

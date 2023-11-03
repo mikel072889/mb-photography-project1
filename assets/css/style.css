@@ -29,6 +29,9 @@ main > h1 {
     text-align: center;
 }
 
+i {
+    color: #ffffff;
+}
 /* Internal / Text links style */
 
 a {

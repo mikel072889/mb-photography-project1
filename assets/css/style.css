@@ -5,7 +5,7 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
 /* General styles */
@@ -19,19 +19,21 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: "Montserrat", sans-serif;
     font-size: 125%;
     margin: 0;
 }
 
-main > h1 {
+main>h1 {
     text-align: center;
 }
 
 i {
     color: #ffffff;
 }
+
 /* Internal / Text links style */
 
 a {
@@ -66,7 +68,7 @@ header {
     position: fixed;
     letter-spacing: 1px;
     color: #CEB66D;
-} 
+}
 
 header a {
     text-decoration: none;
@@ -82,7 +84,7 @@ header a {
     margin-bottom: 1em;
 }
 
-#menu > li {
+#menu>li {
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -108,7 +110,6 @@ https: //a11y-guidelines.orange.com/en/articles/accessible-hiding*/
 
 .visually-hidden {
     position: absolute;
-    position: absolute !important;
     width: 1px !important;
     height: 1px !important;
     padding: 0 !important;
@@ -146,7 +147,8 @@ main {
 main h1 {
     font-size: 1.5em;
 }
-/* Hero */ 
+
+/* Hero */
 
 #hero {
     height: 600px;
@@ -204,13 +206,17 @@ main h1 {
     display: none;
 }
 
-#wedding, #events {
+#wedding,
+#events {
     background: linear-gradient(150deg, rgba(106, 107, 106, 0.5), rgba(197, 197, 197, 0.5))
 }
 
 /* About Section */
 
-#index-about > h2, h3, h4, p {
+#index-about>h2,
+h3,
+h4,
+p {
     margin-top: 20px;
     text-align: center;
     font-size: 120%;
@@ -250,13 +256,14 @@ main h1 {
     text-align: center;
 }
 
-#reviews, #all-reviews {
+#reviews,
+#all-reviews {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background: linear-gradient(30deg, #55684f 50%, #8aa082);
-}   
+}
 
 #reviews h3 {
     text-align: center;
@@ -291,7 +298,7 @@ main h1 {
     background: url("../images/contactbg2.webp") no-repeat center center/cover;
 }
 
-#contact-and-faqs > h2 {
+#contact-and-faqs>h2 {
     text-align: center;
     padding: 10px;
     color: #33683f;
@@ -318,7 +325,7 @@ form {
 
 input {
     color: #ffffff;
-    background: linear-gradient(to right, rgba(49, 97, 51, 0.4), rgba(206, 182, 109, 0.4)) ;
+    background: linear-gradient(to right, rgba(49, 97, 51, 0.4), rgba(206, 182, 109, 0.4));
 }
 
 #message-textarea {
@@ -334,7 +341,7 @@ button {
 }
 
 /* Received-form styles */
-#received-form-main-content { 
+#received-form-main-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -348,7 +355,7 @@ button {
     padding: 20px;
     margin: 20px;
     text-align: center;
-    color:#ffffff;
+    color: #ffffff;
     border-radius: 25px;
 }
 
@@ -369,7 +376,7 @@ button {
     border-radius: 8px;
 }
 
-#faqs > h2 {
+#faqs>h2 {
     color: #ffffff;
     text-align: center;
     padding: 10px;
@@ -385,7 +392,7 @@ button {
 }
 
 /* Hide Contact h2 heading to avoid repetition of display for mobile devices*/
-#contact h2{
+#contact h2 {
     display: none;
 }
 
@@ -416,7 +423,7 @@ footer {
 .footer-heading {
     padding-top: 10px;
     text-align: center;
-    color: #f8db84 ;
+    color: #f8db84;
 }
 
 #copyright {
@@ -429,6 +436,7 @@ footer {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     header {
         height: 90px;
@@ -443,10 +451,10 @@ footer {
         right: 0px;
         height: 44px;
     }
-    
+
     #mb-logo {
         width: 90px;
-        }
+    }
 
     #logo-text {
         position: fixed;
@@ -460,7 +468,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         margin-left: 1rem;
     }
 
@@ -508,7 +516,7 @@ footer {
 
     /* About section */
 
-    #index-about > h3 {
+    #index-about>h3 {
         font-size: 150%;
     }
 
@@ -539,11 +547,11 @@ footer {
         display: flex;
     }
 
-    #contact-and-faqs > h2 {
+    #contact-and-faqs>h2 {
         display: none;
     }
 
-    #contact > h2 {
+    #contact>h2 {
         display: block;
         text-align: center;
         padding: 10px;
@@ -551,11 +559,11 @@ footer {
         background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.9))
     }
 
-    #contact > p {
+    #contact>p {
         color: #ffffff;
         background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
     }
-    
+
     /* Footer */
     .footer-heading-contacts {
         padding-top: 10px;
@@ -586,6 +594,7 @@ footer {
 
 /* Media query: Large devices ( Laptops and desktops 992px and up) */
 @media screen and (min-width: 992px) {
+
     /* Hover functionality */
     #menu a:hover {
         border-bottom: 1px solid #F6ED9B;
@@ -604,11 +613,11 @@ footer {
         right: 0px;
         height: 54px;
     }
-    
+
     #mb-logo {
         width: 110px;
     }
-    
+
     #logo-text {
         position: fixed;
         top: 10px;
@@ -655,7 +664,7 @@ footer {
 
     /* About Section */
 
-    #index-about > h3 {
+    #index-about>h3 {
         font-size: 150%;
     }
 
@@ -669,7 +678,8 @@ footer {
         max-height: 650px;
     }
 
-    #aboutme-caption > h4, p {
+    #aboutme-caption>h4,
+    p {
         font-size: 120%;
     }
 
@@ -711,7 +721,7 @@ footer {
     }
 
     .clients {
-        text-align: right;        
+        text-align: right;
     }
 
     #reviews h3 {
@@ -749,7 +759,7 @@ footer {
     header {
         height: 100px;
     }
-    
+
     nav {
         display: flex;
         position: relative;
@@ -759,11 +769,11 @@ footer {
         right: 0px;
         height: 70px;
     }
-    
+
     #mb-logo {
         width: 100px;
     }
-    
+
     #logo-text {
         position: absolute;
         top: 30px;
@@ -771,7 +781,7 @@ footer {
         font-size: 250%;
         letter-spacing: 7px;
     }
-    
+
     #menu>li {
         font-size: 125%;
         letter-spacing: 2px;
@@ -792,7 +802,7 @@ footer {
     }
 
     /* About section */
-    #index-about > h3 {
+    #index-about>h3 {
         font-size: 200%;
     }
 

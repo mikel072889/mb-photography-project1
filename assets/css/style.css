@@ -294,7 +294,7 @@ p {
 /* Apply different background image for the contacts page */
 
 #main-contact {
-    background: url("../images/contactbg2.webp") no-repeat center center/cover;
+    background: url("../images/contact-background-2.webp") no-repeat center center/cover;
 }
 
 #contact-and-faqs>h2 {
@@ -344,7 +344,7 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url("../images/contactbg.webp") no-repeat center center/cover;
+    background: url("../images/contact-background.webp") no-repeat center center/cover;
     height: 600px;
     width: 100%;
 }

@@ -377,7 +377,7 @@ button {
 }
 
 .questions {
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 .answers {

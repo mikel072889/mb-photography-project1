@@ -245,6 +245,11 @@ main h1 {
 
 /* Reviews section */
 
+#reviews-heading {
+    font-size: 2em;
+    text-align: center;
+}
+
 #reviews, #all-reviews {
     display: flex;
     flex-direction: column;

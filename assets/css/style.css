@@ -409,6 +409,7 @@ footer {
 }
 
 .footer-heading {
+    padding-top: 10px;
     text-align: center;
     color: #f8db84 ;
 }

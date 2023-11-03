@@ -210,10 +210,10 @@ main h1 {
 
 /* About Section */
 
-#index-about > h3, h4, p {
+#index-about > h2, h3, p {
     margin-top: 20px;
     text-align: center;
-    font-size: 100%;
+    font-size: 120%;
     color: #ffffff;
 }
 

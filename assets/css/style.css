@@ -234,7 +234,7 @@ p {
 #aboutme-photo {
     height: 140vw;
     width: 75vw;
-    background: url(../images/aboutmephoto.webp) no-repeat top center/cover;
+    background: url(../images/about-me-photo.webp) no-repeat top center/cover;
     max-width: 300px;
     max-height: 300px;
 }
@@ -526,7 +526,7 @@ footer {
     }
 
     #aboutme-photo {
-        background: url(../images/aboutmephoto2.webp) no-repeat top center/cover;
+        background: url(../images/about-me-photo-2.webp) no-repeat top center/cover;
         position: relative;
         height: 400vh;
         width: 700vw;

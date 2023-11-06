@@ -56,6 +56,8 @@ The website also allows prospective clients to get in touch with the service pro
 The form features a Reset button and Send button. 
 * The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore utilise the message box better for other more important queries.
 
+![Contacts and FAQ Section Image](readme-images/contacts-faqs-screenshot.jpg)
+
 ### The Footer
 * The footer is constantly present on all the pages. This features Social media icons and links including the Photographer's contact details such as email address and mobile number.
 * The bottom most part contains a copyright disclaimer to preserve the originality of the photographer's works.  

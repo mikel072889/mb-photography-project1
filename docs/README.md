@@ -64,6 +64,12 @@ The form features a Reset button and Send button.
 
 ![Footer Image](readme-images/footer-screenshot.jpg)
 
+### Favicon
+
+* The website features a favicon with a round golden image signifying the lens of a camera. This can facilitate easier navigation for users when they have multiple tabs open in one window.
+
+![Favicon](readme-images/favicon-screenshot.jpg)
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

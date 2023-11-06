@@ -9,24 +9,22 @@ The website also allows prospective clients to get in touch with the service pro
 
 ## Features
 ### Navigation 
-* The navigation bar is located at the top corner of the page. It includes the business logo on the top left corner which links to Home page. On the right side, the navigation bar contains the Home, Gallery, About, Reviews, Contact + FAQs sections. The navbar is set to be resonsive to smaller devices.
+* The navigation bar is located at the top corner of the page. It includes the business logo on the top left corner which links to Home page. On the right side, the navigation bar contains the Home, Gallery, About, Reviews, Contact + FAQs sections. The navbar is set to be responsive to all devices.
 * Home, Reviews, and About sections link to different sections of the landing page, however, Reviews and About sections also have their dedicated page for more information that might be useful to prospective customers.
 * The Gallery and Contacts + FAQs sections link to separate pages.
 * The navigation bar is simple and is designed to be less overwhelming to users, hence facilitating accessibility.
 
 ![Navbar](readme-images/navbar-widescreen.jpg)
-![ToggleMenu](readme-images/navbar-mobile.jpg)
+![Toggle Menu](readme-images/navbar-mobile.jpg)
 
 ### The Main Sections
-#### The Header
-* The header includes a background hero image, a photo professionally taken by the photographer to give a taste of his talent to users.
-* Included here is the website's main slogan "Capture moments that matter, because life is beautiful!"
-* At the bottom of the header is a "Reachout" link which will provide an access to the contact page allowing users to immediately contact the photographer.
+#### The Landing Page
+* The landing page includes a background hero image, a photo professionally taken by the photographer to give a taste of his talent to users. The hero image featured is designed to captivate future clients' attention and to develop a degree curiosity making them want to navigate throught the website more. 
+* Included here is the website's main slogan "Capture moments that matter, because life is beautiful!" giving the users a hint of what the page is all about.
+* The landing page shows the About and Reviews section, both containing links to their own dedicated page making more information available for users.
 
-[comment]: <> (Screenshot photo will be included here once project is finished)
-
-#### The Home Section
-* The Home section is the index page of the website. This includes the Header section, About section, and Reviews section.
+![Landing Page](readme-images/landing-page.jpg)
+![Landing Page 2](readme-images/landing-page-2.jpg)
 
 #### The Gallery Section
 * The Gallery section contains the photographer's sample works

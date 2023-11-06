@@ -195,7 +195,7 @@ Manual testing was also performed and found the following issues that were recti
 ![Commit screenshot 2](readme-images/accessibility-2.jpg)
 
 * Missing content added but made invisible for design purposes. 
-Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add its functionality.
+Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add its functionality.
 <br>
 
 ![Commit screenshot 3](readme-images/accessibility-3.jpg)
@@ -312,5 +312,17 @@ Navigate to the GitHub Repository you want to clone to use locally:
 * The project will now of been cloned on your local machine for use.
 
 ## Credits
+* Favicon was created using https://favicon.io/favicon-converter/ website.
+* Google fonts https://fonts.google.com was used.
+* Looka.com https://looka.com was used in creating a logo for MB Photography.
+* https://github.com/Code-Institute-Org/ci-full-template template used from Code Institute.
+* The Love Running walkthrough project from Code Institute was used as a guide in the initial phase of setting up the MB Photography project especially in coding the toggle menu feature.
+* https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md was used as a template and guide in creating this README file. The 'Clone Repository Code Locally' section was fully copied from this readme file.
+* Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add a missing content and make it invisible for design but make it accessible at the same time.  
+* Awesome icons were sourced from https://fontawesome.com/.
+
 ### Gallery Content/Media
-[comment]: <> (awaiting project's near completion)
+* All gallery photos were sourced from free photos websites https://pxhere.com/ and https://www.pexels.com/
+* Convertio.co https://convertio.co/jpg-webp/ was used in converting image files to webp format.
+* Tinypng.com https://tinypng.com/ was used to compress image files to improve website performance.
+

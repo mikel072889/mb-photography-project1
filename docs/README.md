@@ -86,6 +86,13 @@ The form features a Reset button and Send button.
 * Add a section where previous clients can add reviews and be posted in the website in real time
 * Add more photography genres
 
+## Design
+### Wireframes
+* Landing Page
+<br>
+![Homepage mobile screen](readme-images/mobile-index.png)
+![Homepage large screen](readme-images/index.png)
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

@@ -59,10 +59,10 @@ The form features a Reset button and Send button.
 ![Contacts and FAQ Section Image](readme-images/contacts-faqs-screenshot.jpg)
 
 ### The Footer
-* The footer is constantly present on all the pages. This features Social media icons and links including the Photographer's contact details such as email address and mobile number.
-* The bottom most part contains a copyright disclaimer to preserve the originality of the photographer's works.  
+* The footer is constantly present on all the pages. This features links to MB Photography's social media accounts. The footer also includes the photographer's contact details such as email address and mobile number.
+* MB Photography contains original works of authorship and editing, hence, a copyright disclaimer is included at the bottom most part of the footer to preserve the originality of the photographer's works.  
 
- 
+![Footer Image](readme-images/footer-screenshot.jpg)
 
 ## Testing
 [comment]: <> (awaiting project's near completion)

@@ -90,16 +90,19 @@ The form features a Reset button and Send button.
 ### Wireframes
 * Landing Page
 <br>
-![Homepage mobile screen](readme-images/mobile-index.png)
+
+![Landing page](readme-images/mobile-index.png)
 ![Homepage large screen](readme-images/index.png)
 
 * Gallery Page
 <br>
+
 ![Gallery Page mobile screen](readme-images/mobile-gallery.png)
 ![Gallery Page large screen](readme-images/gallery.png)
 
 * About Page
 <br>
+
 ![About Page mobile screen](readme-images/mobile-about.png)
 ![About Page large screen](readme-images/about.png)
 

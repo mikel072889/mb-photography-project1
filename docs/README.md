@@ -261,7 +261,17 @@ Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was 
 * The checkbox input elements were set as not required to allow flexibility for users to identify their genre of interest not specified on the list.
 
 ## Bugs
-[comment]: <> (awaiting project's near completion)
+A few bugs were identified during testing. These were rectified accordingly.
+* Wrong value given to label "for" attribute.
+<br>
+
+![Bug 1 image](readme-images/bug-1.jpg)
+
+* Contacts link at the footer not functioning.
+<br>
+
+![Bug 1 image](readme-images/bug-2.jpg)
+
 
 ## Deployment
 [comment]: <> (awaiting project's near completion)

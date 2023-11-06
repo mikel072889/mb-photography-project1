@@ -19,31 +19,33 @@ The website also allows prospective clients to get in touch with the service pro
 
 ### The Main Sections
 #### The Landing Page
-* The landing page includes a background hero image, a photo professionally taken by the photographer to give a taste of his talent to users. The hero image featured is designed to captivate future clients' attention and to develop a degree curiosity making them want to navigate throught the website more. 
-* Included here is the website's main slogan "Capture moments that matter, because life is beautiful!" giving the users a hint of what the page is all about.
+* The landing page includes a background hero image, a photo professionally taken by the photographer to give a taste of his talent to users. The hero image featured is designed to captivate future clients' attention and to develop a degree of curiosity making them want to navigate through the website more. 
+* Included here is the website's main slogan "Capture moments that matter, because life is beautiful." giving the users a hint of what the page is all about.
 * The landing page shows the About and Reviews section, both containing links to their own dedicated page making more information available for users.
 
 ![Landing Page](readme-images/landing-page.jpg)
 ![Landing Page 2](readme-images/landing-page-2.jpg)
 
-#### The Gallery Section
-* The Gallery section contains the photographer's sample works from various photography disciplines. This is to draw attention and establish emotional connection with the users to make them arrive into a decision of availing the service.
+#### The Gallery Page
+* The Gallery page contains the photographer's sample works from various photography disciplines. This is to draw attention and establish emotional connection with the users to make them arrive into a decision of availing the service.
 * Each photography disclipine has their own dedicated section and slogan. This facilitates filtered accessibility for users and will make it easier for them to focus on a specific genre of interest.
 
 ![Sample Gallery Image](readme-images/gallery-screenshot-1.jpg)
 ![Sample Gallery Image 2](readme-images/gallery-screenshot-2.jpg)
 
-#### The About Section
-* Located within the Homepage, this section provides details about the photographer. It includes the photographer's photo to facilitate rapport building and creating good first impressions.
+#### The About Section and Page
+* Located within the homepage, this section provides details about the photographer. It includes the photographer's photo to facilitate rapport building and creating good first impressions.
+
+* This section also has its own dedicated page which can be navigated to using the navigation bar.
 
 ![About Section Image](readme-images/about-screenshot-2.jpg)
 
-* After knowing someone, this is a perfect opportunity to know more about them, hence, this section features a link to the gallery page to facilitate continuous flow of interest from the client.
+* After reading about the photographer, this is a perfect opportunity to know more about the offered services, hence, this section features a link to the gallery page to facilitate continuous flow of interest from the client.
 
 ![Check out my gallery link image](readme-images/check-out.jpg)
 
-#### The Reviews Section
-* The Reviews section contains the reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also serve as convincing factor for the users.
+#### The Reviews Section and Page
+* The Reviews page contains the reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also serve as convincing factor for the users.
 
 ![Reviews Image](readme-images/reviews-screenshot.jpg)
 
@@ -53,18 +55,19 @@ The website also allows prospective clients to get in touch with the service pro
 
 #### The Contact + FAQs Section
 * This section provides the opportunity for the user to communicate any queries or inquiries with the service provider through the use of a form that requires mandatory inputs. The user can also pre-select their photography genre of choice or requirement and can also send a direct message using the message box provided.
-The form features a Reset button and Send button. 
-* The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore utilise the message box better for other more important queries.
+The form features a Reset button and Send button providing convenience to users. 
+* The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore allow the users to utilise the message box better for other more important queries.
 
 ![Contacts and FAQ Section Image](readme-images/contacts-faqs-screenshot.jpg)
 
 #### Received Form Page
-* This page appears on successful submission of the contact form. It provides reassurance to future clients and also provides contact details for urgent inquiries. 
+* This page appears on successful submission of the contact form. It reassures future clients and provides contact details for urgent inquiries. 
 
 ![Received Form Image](readme-images/received-form-screenshot-2.jpg)
 
 ### The Footer
-* The footer is constantly present on all the pages. This features links to MB Photography's social media accounts. The footer also includes the photographer's contact details such as email address and mobile number.
+* The footer is constantly present on all the pages. This features links to MB Photography's various social media accounts. 
+* The footer also includes the photographer's contact details such as email address and mobile number. They are clickable links that will open phone or email windows for user. This allows users to directly contact MB Photography.
 * MB Photography contains original works of authorship and editing, hence, a copyright disclaimer is included at the bottom most part of the footer to preserve the originality of the photographer's works.  
 
 ![Footer Image](readme-images/footer-screenshot.jpg)
@@ -81,7 +84,7 @@ The form features a Reset button and Send button.
 * Four photography genres included
 
 ### Future Feature Enhancements
-* Make landing page hero image automatically change so it features more photographs
+* Add animation on scroll feature to the landing page to showcase more photos
 * Apply scroll feature to the gallery where clients can scroll across multiple photos at ease
 * Add a section where previous clients can add reviews and be posted in the website in real time
 * Add more photography genres

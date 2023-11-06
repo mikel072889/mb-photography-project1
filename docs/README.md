@@ -75,6 +75,17 @@ The form features a Reset button and Send button.
 
 ![Favicon](readme-images/favicon-screenshot.jpg)
 
+### Existing Features
+* Website responsive design
+* Contact form with mandatory inputs and received form page
+* Four photography genres included
+
+### Future Feature Enhancements
+* Make landing page hero image automatically change so it features more photographs
+* Apply scroll feature to the gallery where clients can scroll across multiple photos at ease
+* Add a section where previous clients can add reviews and be posted in the website in real time
+* Add more photography genres
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

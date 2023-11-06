@@ -320,6 +320,7 @@ Navigate to the GitHub Repository you want to clone to use locally:
 * https://github.com/Gareth-McGirr/tacos-travels/blob/main/README.md was used as a template and guide in creating this README file. The 'Clone Repository Code Locally' section was fully copied from this readme file.
 * Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add a missing content and make it invisible for design but make it accessible at the same time.  
 * Awesome icons were sourced from https://fontawesome.com/.
+* https://techsini.com/multi-mockup/index.php was used to generate mock-ups for this readme file.
 
 ### Gallery Content/Media
 * All gallery photos were sourced from free photos websites https://pxhere.com/ and https://www.pexels.com/

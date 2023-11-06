@@ -154,9 +154,20 @@ The form features a Reset button and Send button providing convenience to users.
     * Font used in the website was sourced from https://fonts.google.com.
 * Logo Generator
     * https://looka.com was used in creating a logo for MB Photography.
+* Chrome DevTools
+    * Used in inspecting, editing, and debugging the website code during its development phase.
 
 ## Testing
-[comment]: <> (awaiting project's near completion)
+### Responsiveness
+Responsiveness was tested using Chrome DevTools. 
+
+| Description                   | Action                                                                                           | Expected Results                                              | PASS/FAIL |
+| ----------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --------- |
+| Responsiveness to all devices | 1.  Go to MB Photography website                                                                 | Website is responsive to all devices of various screen sizes. | PASS      |
+|                               | 2\. Open browser devtool (right click + inspect)                                                 | No elements overlapping observed.                             | PASS      |
+|                               | 3\. Set to responsive and adjust width to desired device width                                   | No horizontal scroll bar is present.                          | PASS      |
+|                               | 4\. Click and drag the responsive window accordingly.                                            | No images are stretched or pixelated.                         | PASS      |
+|                               | 5\. Test all pages of the website by navigating using the navbar and repeating these same steps. |                                                               |           |                                |
 
 ## Bugs
 [comment]: <> (awaiting project's near completion)

@@ -43,7 +43,13 @@ The website also allows prospective clients to get in touch with the service pro
 ![Check out my gallery link image](readme-images/check-out.jpg)
 
 #### The Reviews Section
-* Also within the Homepage, the Reviews section contains gte reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also add as convincing factor for the users.
+* The Reviews section contains the reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also serve as convincing factor for the users.
+
+![Reviews Image](readme-images/reviews-screenshot.jpg)
+
+* The Reviews section is also readily available on the landing page. In there, it features a link to the dedicated reviews page where more reviews can be found. 
+
+![More Reviews Image](readme-images/more-reviews.jpg)
 
 ### The Footer
 * The footer is constantly present on all the pages. This features Social media icons and links including the Photographer's contact details such as email address and mobile number.

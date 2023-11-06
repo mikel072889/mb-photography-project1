@@ -261,6 +261,29 @@ Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was c
 * The checkbox input elements were set as not required to allow flexibility for users to identify their genre of interest not specified on the list.
 
 ### Lighthouse Testing
+Lighthouse testing was also carried out to determine any points of improvement for the website. One identified weakness was the Performance Criteria for the Gallery page scoring only 52.
+<br>
+
+![Gallery page Lighthouse Testing Image - Before](readme-images/gallery-lighthouse-before.jpg)
+
+Images were compressed and reduced in size to tackle this issue. No significant reduction in image quality noted.
+<br>
+
+![Gallery Images Before Compression](readme-images/events-gallery-before-compression.jpg)
+![Gallery Images After Compression](readme-images/events-gallery-after-compression.jpg)
+
+Lighthouse testing re-done for gallery page.
+<br> 
+
+![Gallery Page Lighthouse Testing Image - After](readme-images/gallery-lighthouse-after.jpg)
+
+The rest of the pages Lighthouse testing result were satisfactory.
+
+![Homepage Lighthouse Testing Image](readme-images/index-lighthouse.jpg)
+![About page Lighthouse Testing Image](readme-images/about-lighthouse.jpg)
+![Reviews page Lighthouse Testing Image](readme-images/reviews-lighthouse.jpg)
+![Contact and Faqs page Lighthouse Testing Image](readme-images/contacts-lighthouse.jpg)
+![Received Form page Lighthouse Testing Image](readme-images/received-form-lighthouse.jpg)
 
 ## Bugs
 A few bugs were identified during testing. These were rectified accordingly.
@@ -299,7 +322,7 @@ In the early stages of the development, the website was deployed to GitHub Pages
     * Under Active Deployments, a live link will be displayed under github-pages.
 <br>
 
-Here is the live link https://mikel072889.github.io.mb-photography-project1
+Here is the live link https://mikel072889.github.io/mb-photography-project1/
 
 ### Clone Repository Code Locally
 Navigate to the GitHub Repository you want to clone to use locally:

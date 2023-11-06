@@ -167,7 +167,7 @@ Responsiveness was tested using Chrome DevTools.
 |                               | 2\. Open browser devtool (right click + inspect)                                                 | No elements overlapping observed.                             | PASS      |
 |                               | 3\. Set to responsive and adjust width to desired device width                                   | No horizontal scroll bar is present.                          | PASS      |
 |                               | 4\. Click and drag the responsive window accordingly.                                            | No images are stretched or pixelated.                         | PASS      |
-|                               | 5\. Test all pages of the website by navigating using the navbar and repeating these same steps. |                                                               |           |                                |
+|                               | 5\. Test all pages of the website by navigating using the navbar and repeating these same steps. |                                                               | PASS          |                               | 
 
 * Browsers used in testing responsiveness were Chrome, Safari, Mozilla Firefox, and Microsoft Edge.
 * The website was also accessed via the following devices and no responsiveness issues identified:

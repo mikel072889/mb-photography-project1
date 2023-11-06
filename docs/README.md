@@ -106,6 +106,12 @@ The form features a Reset button and Send button.
 ![About Page mobile screen](readme-images/mobile-about.png)
 ![About Page large screen](readme-images/about.png)
 
+* Reviews Page
+<br>
+
+![Reviews Page mobile screen](readme-images/mobile-reviews.png)
+![Reviews Page large screen](readme-images/reviews.png)
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

@@ -206,8 +206,32 @@ Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was 
 
 ![Commit screenshot 5](readme-images/accessibility-5.jpg)
 
-## Validator Testing 
-[comment]: <> (awaiting project's near completion)
+### Validator Testing 
+* HTML and CSS files were tested and returned with no errors found. [W3C Validator](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used respectively.
+<br>
+
+![Validator Landing Page image](readme-images/index-html.jpg)
+
+<br>
+
+![Validator Gallery Page image](readme-images/gallery-html.jpg)
+
+<br>
+
+![Validator About Page image](readme-images/about-html.jpg)
+
+<br>
+
+![Validator Reviews Page image](readme-images/reviews-html.jpg)
+
+<br>
+
+![Validator Contact and Faqs Page image](readme-images/contacts-html.jpg)
+
+<br>
+
+![Validator CSS image](readme-images/css.jpg)
+
 
 ## Bugs
 [comment]: <> (awaiting project's near completion)

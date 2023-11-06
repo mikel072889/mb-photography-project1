@@ -5,6 +5,8 @@ This website showcases the photographer's skills through sample photos and targe
 
 The website also allows prospective clients to get in touch with the service provider by means of filling in a form. You can access live site [here](https://mikel072889.github.io/mb-photography-project1/)
 
+[Mockups](docs/readme-images/index-screenshot.png)
+
 [comment]: <> (Screenshot photo will be included here once project is finished)
 
 ## Features

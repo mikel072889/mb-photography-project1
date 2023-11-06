@@ -127,6 +127,34 @@ The form features a Reset button and Send button providing convenience to users.
 ![Received Form Page mobile screen](readme-images/mobile-received-form.png)
 ![Received Form Page large screen](readme-images/received-form.png)
 
+## Technologies
+* HTML 
+    * HTML was utilised in developing the basic structure of the website.
+* CSS
+    * Styles were applied using external css file.
+* Codeanywhere IDE
+    * Codeanywhere IDE was used at the initial phase of constructing the website.
+* Visual Studio Code IDE
+    * VS Code IDE was used midway through the project and until the finishing touches.
+* Github
+    * Source code is hosted and deployed using github.
+* Git
+    * Used to add, commit, and push codes during the development process.
+* Balsamiq Wireframes
+    * Used in creating a blueprint or draft of the project on the early phase of development.
+* Convertio.co 
+    * https://convertio.co/jpg-webp/ was used in converting image files to webp format.
+* Tinypng.com 
+    * https://tinypng.com/ was used to compress image files to improve website performance.
+* Paint - Windows 10
+    * Used to reduce image size maintaing aspect ratio.
+* Favicon.io 
+    * Favicon was created from https://favicon.io/favicon-converter/.
+* Google font
+    * Font used in the website was sourced from https://fonts.google.com.
+* Logo Generator
+    * https://looka.com was used in creating a logo for MB Photography.
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

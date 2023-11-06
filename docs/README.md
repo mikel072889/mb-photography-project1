@@ -169,7 +169,7 @@ Responsiveness was tested using Chrome DevTools.
 |                               | 4\. Click and drag the responsive window accordingly.                                            | No images are stretched or pixelated.                         | PASS      |
 |                               | 5\. Test all pages of the website by navigating using the navbar and repeating these same steps. |                                                               |           |                                |
 
-* Browsers used in testing responsivess were Chrome, Safari, Mozilla Firefox, and Microsoft Edge.
+* Browsers used in testing responsiveness were Chrome, Safari, Mozilla Firefox, and Microsoft Edge.
 * The website was also accessed via the following devices and no responsiveness issues identified:
     * iPhone 12
     * Samsung Galaxy S23
@@ -232,6 +232,19 @@ Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was 
 
 ![Validator CSS image](readme-images/css.jpg)
 
+### Functionality Testing
+#### Navigation Links
+
+| Navigation Link and other links     | Expected page | PASS/FAIL |
+| ----------------------------------- | ------------- | --------- |
+| MB Photography Logo                 | index.html    | PASS      |
+| Home                                | index.html    | PASS      |
+| Gallery                             | gallery.html  | PASS      |
+| About                               | about.html    | PASS      |
+| Reviews                             | reviews.html  | PASS      |
+| Contact & FAQs                      | contacts.html | PASS      |
+| Check out my gallery                | gallery.html  | PASS      |
+| More Reviews                        | reviews.html  | PASS      |
 
 ## Bugs
 [comment]: <> (awaiting project's near completion)

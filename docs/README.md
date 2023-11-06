@@ -7,16 +7,15 @@ The website also allows prospective clients to get in touch with the service pro
 
 ![Mockups](readme-images/index-screenshot.png)
 
-[comment]: <> (Screenshot photo will be included here once project is finished)
-
 ## Features
 ### Navigation 
-* The navigation bar is located at the top corner of the page. It includes the business logo on the top left corner which links to Home page. On the right side, the navigation bar contains the Home, Gallery, About, Reviews, Contact + FAQs sections.
-* Home, Reviews, and About sections link to different sections of the same page.
+* The navigation bar is located at the top corner of the page. It includes the business logo on the top left corner which links to Home page. On the right side, the navigation bar contains the Home, Gallery, About, Reviews, Contact + FAQs sections. The navbar is set to be resonsive to smaller devices.
+* Home, Reviews, and About sections link to different sections of the landing page, however, Reviews and About sections also have their dedicated page for more information that might be useful to prospective customers.
 * The Gallery and Contacts + FAQs sections link to separate pages.
 * The navigation bar is simple and is designed to be less overwhelming to users, hence facilitating accessibility.
 
-[comment]: <> (Screenshot photo will be included here once project is finished)
+![Navbar](readme-images/navbar-widescreen.jpg)
+![ToggleMenu](readme-images/navbar-mobile.jpg)
 
 ### The Main Sections
 #### The Header

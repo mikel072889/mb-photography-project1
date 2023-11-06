@@ -312,7 +312,7 @@ form {
     padding: 10px;
     border-radius: 8px;
     margin: 25px 10px;
-    background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
+    background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.8))
 }
 
 #form {
@@ -560,7 +560,7 @@ footer {
 
     #contact>p {
         color: #ffffff;
-        background: linear-gradient(150deg, rgba(97, 168, 101, 0.7), rgba(206, 182, 109, 0.4))
+        background: linear-gradient(150deg, rgba(97, 168, 101, 0.9), rgba(206, 182, 109, 0.8))
     }
 
     /* Footer */

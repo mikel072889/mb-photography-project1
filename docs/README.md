@@ -51,13 +51,16 @@ The website also allows prospective clients to get in touch with the service pro
 
 ![More Reviews Image](readme-images/more-reviews.jpg)
 
+#### The Contact + FAQs Section
+* This section provides the opportunity for the user to communicate any queries or inquiries with the service provider through the use of a form that requires mandatory inputs. The user can also pre-select their photography genre of choice or requirement and can also send a direct message using the message box provided.
+The form features a Reset button and Send button. 
+* The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore utilise the message box better for other more important queries.
+
 ### The Footer
 * The footer is constantly present on all the pages. This features Social media icons and links including the Photographer's contact details such as email address and mobile number.
 * The bottom most part contains a copyright disclaimer to preserve the originality of the photographer's works.  
 
-#### The Contact + FAQs Section
-* This section provides the opportunity for the user to communicate any queries or inquiries with the service provider through the use of a form that requires mandatory inputs. The user can also pre-select their photography genre of choice or requirement and can also send a direct message using the message box provided.
-* The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore utilise the message box more for other important queries. 
+ 
 
 ## Testing
 [comment]: <> (awaiting project's near completion)

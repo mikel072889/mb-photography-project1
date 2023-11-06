@@ -260,6 +260,8 @@ Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was 
 
 * The checkbox input elements were set as not required to allow flexibility for users to identify their genre of interest not specified on the list.
 
+### Lighthouse Testing
+
 ## Bugs
 A few bugs were identified during testing. These were rectified accordingly.
 * Wrong value given to label "for" attribute.
@@ -274,7 +276,16 @@ A few bugs were identified during testing. These were rectified accordingly.
 
 
 ## Deployment
-[comment]: <> (awaiting project's near completion)
+### Version Control
+The website was developed using a cloud IDE Codeanywhere at the initial phase of development. For majority of the development, Visual Studio Code IDE was used. Codes were pushed to github repository mikel072889.github.io/mb-photography-project1.
+
+```git add . ``` command was used to add all changes in the current directory to the staging area.
+<br>
+
+```git commit -m “commit message”``` command was used to commit or move added changes to the local repository.
+<br>
+
+```git push ``` command was used to update the remote repository with local commits pushing all changes made to github repository.
 
 ## Credits
 ### Gallery Content/Media

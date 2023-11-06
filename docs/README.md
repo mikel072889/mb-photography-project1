@@ -98,6 +98,11 @@ The form features a Reset button and Send button.
 ![Gallery Page mobile screen](readme-images/mobile-gallery.png)
 ![Gallery Page large screen](readme-images/gallery.png)
 
+* About Page
+<br>
+![Aboout Page mobile screen](readme-images/mobile-about.png)
+![About Page large screen](readme-images/about.png)
+
 ## Testing
 [comment]: <> (awaiting project's near completion)
 

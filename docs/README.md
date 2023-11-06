@@ -287,6 +287,20 @@ The website was developed using a cloud IDE Codeanywhere at the initial phase of
 
 ```git push ``` command was used to update the remote repository with local commits pushing all changes made to github repository.
 
+### Deployment to Github Pages
+In the early stages of the development, the website was deployed to GitHub Pages to facilitate early identification of bugs and issues. This enabled early fixes and shareable links that can be used to test website from multiple devices.
+* Steps used in Deployment:
+    * Open GitHub repository
+    * Open the Settings tab
+    * On the left sidebar, click on Pages
+    * In Build and deployment, in the Branch section, select Main branch and set folder to /(root) and then click Save
+    * Go back to Code tab
+    * On the right-hand side, in the Deployments section, click on 'Deployments'
+    * Under Active Deployments, a live link will be displayed under github-pages.
+<br>
+
+Here is the live link https://mikel072889.github.io.mb-photography-project1
+
 ## Credits
 ### Gallery Content/Media
 [comment]: <> (awaiting project's near completion)

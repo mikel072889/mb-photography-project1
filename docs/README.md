@@ -112,11 +112,17 @@ The form features a Reset button and Send button.
 ![Reviews Page mobile screen](readme-images/mobile-reviews.png)
 ![Reviews Page large screen](readme-images/reviews.png)
 
-* Reviews Page
+* Contact and FAQs Page
 <br>
 
 ![Contact and Faq Page mobile screen](readme-images/mobile-contact.png)
 ![Contact and Faq Page large screen](readme-images/contact.png)
+
+* Received Form Page
+<br>
+
+![Received Form Page mobile screen](readme-images/mobile-received-form.png)
+![Received Form Page large screen](readme-images/received-form.png)
 
 ## Testing
 [comment]: <> (awaiting project's near completion)

@@ -169,10 +169,17 @@ Responsiveness was tested using Chrome DevTools.
 |                               | 4\. Click and drag the responsive window accordingly.                                            | No images are stretched or pixelated.                         | PASS      |
 |                               | 5\. Test all pages of the website by navigating using the navbar and repeating these same steps. |                                                               |           |                                |
 
-## Bugs
-[comment]: <> (awaiting project's near completion)
+* Browsers used in testing responsivess were Chrome, Safari, Mozilla Firefox, and Microsoft Edge.
+* The website was also accessed via the following devices and no responsiveness issues identified:
+    * iPhone 12
+    * Samsung Galaxy S23
+    * iPad Mini
+    * Google Pixel 6
 
 ## Validator Testing 
+[comment]: <> (awaiting project's near completion)
+
+## Bugs
 [comment]: <> (awaiting project's near completion)
 
 ## Deployment

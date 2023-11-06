@@ -27,8 +27,11 @@ The website also allows prospective clients to get in touch with the service pro
 ![Landing Page 2](readme-images/landing-page-2.jpg)
 
 #### The Gallery Section
-* The Gallery section contains the photographer's sample works
-*  from various photography disciplines. This is to draw attention and establish emotional connection with the users to make them to arrive into a decision of availing the service.
+* The Gallery section contains the photographer's sample works from various photography disciplines. This is to draw attention and establish emotional connection with the users to make them arrive into a decision of availing the service.
+* Each photography disclipine has their own dedicated section and slogan. This facilitates filtered accessibility for users and will make it easier for them to focus on a specific genre of interest.
+
+![Sample Gallery Image](readme-images/gallery-screenshot-1.jpg)
+![Sample Gallery Image 2](readme-images/gallery-screenshot-2.jpg)
 
 #### The About Section
 * Located within the Homepage, this section provides details about the photographer. On the left side includes the photogrpaher's photo to facilitate more rapport building and creating good first impressions.

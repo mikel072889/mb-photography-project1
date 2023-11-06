@@ -34,7 +34,13 @@ The website also allows prospective clients to get in touch with the service pro
 ![Sample Gallery Image 2](readme-images/gallery-screenshot-2.jpg)
 
 #### The About Section
-* Located within the Homepage, this section provides details about the photographer. On the left side includes the photogrpaher's photo to facilitate more rapport building and creating good first impressions.
+* Located within the Homepage, this section provides details about the photographer. It includes the photographer's photo to facilitate rapport building and creating good first impressions.
+
+![About Section Image](readme-images/about-screenshot-2.jpg)
+
+* After knowing someone, this is a perfect opportunity to know more about them, hence, this section features a link to the gallery page to facilitate continuous flow of interest from the client.
+
+![Check out my gallery link image](readme-images/check-out.jpg)
 
 #### The Reviews Section
 * Also within the Homepage, the Reviews section contains gte reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also add as convincing factor for the users.

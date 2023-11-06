@@ -176,6 +176,36 @@ Responsiveness was tested using Chrome DevTools.
     * iPad Mini
     * Google Pixel 6
 
+### Accessibility
+Accessibility of the website is of paramount importance that is why [Wave Accessibility](https://wave.webaim.org/) tool was used throughout the development, especially towards the final stages.
+
+The following criteria were met:
+* HTML page lang attribute was set.
+* Images and logos have alternative texts set making descriptions dictateable to users.
+* Aria labels used and implemented correctly.
+* Missed heading levels rectified. No skipped heading levels found ensuring importance of content is maintained.
+* Color contrasts meet a minimum ratio as specified in [WCAG 2.1 Contrast Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html).
+* Conformance to WCAG 2.1 Coding best practices.
+
+Manual testing was also performed and found the following issues that were rectified accordingly:
+* Skipped headings were rectified
+<br>
+
+![Commit screenshot 1](readme-images/accessibility-1.jpg)
+![Commit screenshot 2](readme-images/accessibility-2.jpg)
+
+* Missing content added but made invisible for design purposes. 
+Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add its functionality.
+<br>
+
+![Commit screenshot 3](readme-images/accessibility-3.jpg)
+![Commit screenshot 4](readme-images/accessibility-4.jpg)
+
+* Color contrast issue identified in the form within the contact page. Background opacity adjusted.
+<br>
+
+![Commit screenshot 5](readme-images/accessibility-5.jpg)
+
 ## Validator Testing 
 [comment]: <> (awaiting project's near completion)
 

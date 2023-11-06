@@ -246,6 +246,20 @@ Code from https: //a11y-guidelines.orange.com/en/articles/accessible-hiding was 
 | Check out my gallery                | gallery.html  | PASS      |
 | More Reviews                        | reviews.html  | PASS      |
 
+#### Contact Form Testing
+
+| Scenario                                                                                  | Actions                                                                               | Expected result                                                                        | PASS/FAIL |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------- |
+| Correct inputs on all aspect                                                              | Correctly fill-in all parts of the form and click Send!                               | User will be re-directed to received-form.html                                         | PASS      |
+| Erase pre-filled input section of the form                                                | Click Reset form button                                                               | All information entered by user will be erased                                         | PASS      |
+| Missing required field - first name                                                       | Fill in all parts of the form except first name and click Send!                       | The form does not submit; Error message telling user to complete this field            | PASS      |
+| Missing required field - last name                                                        | Fill in all parts of the form except last name and click Send!                        | The form does not submit; Error message telling user to complete this field            | PASS      |
+| Missing required field - email                                                            | Fill in all parts of the form except email and click Send!                            | The form does not submit; Error message telling user to complete this field            | PASS      |
+| Incorrect email format entered                                                            | Fill in all parts correctly except email. Omit "@" in the email input and click Send! | The form does not submit; Error message telling user to complete email field correctly | PASS      |
+| Any checkbox input element NOT ticked but all other parts of the form correctly filled in | Leave all or any checkbox unticked                                                    | The form will still be submitted and redirected to received-form.html                  | PASS      |
+
+* The checkbox input elements were set as not required to allow flexibility for users to identify their genre of interest not specified on the list.
+
 ## Bugs
 [comment]: <> (awaiting project's near completion)
 

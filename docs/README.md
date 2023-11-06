@@ -58,6 +58,11 @@ The form features a Reset button and Send button.
 
 ![Contacts and FAQ Section Image](readme-images/contacts-faqs-screenshot.jpg)
 
+#### Received Form Page
+* This page appears on successful submission of the contact form. It provides reassurance to future clients and also provides contact details for urgent inquiries. 
+
+![Received Form Image](readme-images/received-form-screenshot-2.jpg)
+
 ### The Footer
 * The footer is constantly present on all the pages. This features links to MB Photography's social media accounts. The footer also includes the photographer's contact details such as email address and mobile number.
 * MB Photography contains original works of authorship and editing, hence, a copyright disclaimer is included at the bottom most part of the footer to preserve the originality of the photographer's works.  

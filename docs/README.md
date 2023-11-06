@@ -277,7 +277,7 @@ Lighthouse testing re-done for gallery page.
 
 ![Gallery Page Lighthouse Testing Image - After](readme-images/gallery-lighthouse-after.jpg)
 
-The rest of the pages Lighthouse testing result were satisfactory.
+The rest of the pages Lighthouse testing results were satisfactory.
 
 ![Homepage Lighthouse Testing Image](readme-images/index-lighthouse.jpg)
 ![About page Lighthouse Testing Image](readme-images/about-lighthouse.jpg)

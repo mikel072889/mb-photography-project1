@@ -1,5 +1,5 @@
 # MB PHOTOGRAPHY
-MB Photography is a website for people looking for photography service where their special moments will be captured through professional photography skills. 
+MB Photography is a website for people looking for photography service where their special moments will be captured through professional photography skills. Target audience can be anyone ranging from someone who just wants to have a self portrait taken, to a couple who is planning their wedding, to a mom who wants to take  portraits of her precious little one.
 
 This website showcases the photographer's skills through sample photos and targets people from all walks of life who need their special moments captured whether it be a wedding, birthday celebration, portrait or travel photography. 
 

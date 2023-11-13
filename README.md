@@ -5,7 +5,7 @@ This website showcases the photographer's skills through sample photos and targe
 
 The website also allows prospective clients to get in touch with the service provider by means of filling in a form. You can access live site [here](https://mikel072889.github.io/mb-photography-project1/)
 
-![Mockups](readme-images/index-screenshot.png)
+![Mockups](docs/readme-images/index-screenshot.png)
 
 ## Features
 ### Navigation 
@@ -14,8 +14,8 @@ The website also allows prospective clients to get in touch with the service pro
 * The Gallery and Contacts + FAQs sections link to separate pages.
 * The navigation bar is simple and is designed to be less overwhelming to users, hence facilitating accessibility.
 
-![Navbar](readme-images/navbar-widescreen.jpg)
-![Toggle Menu](readme-images/navbar-mobile.jpg)
+![Navbar](docs/readme-images/navbar-widescreen.jpg)
+![Toggle Menu](docs/readme-images/navbar-mobile.jpg)
 
 ### The Main Sections
 #### The Landing Page
@@ -23,60 +23,60 @@ The website also allows prospective clients to get in touch with the service pro
 * Included here is the website's main slogan "Capture moments that matter, because life is beautiful." giving the users a hint of what the page is all about.
 * The landing page shows the About and Reviews section, both containing links to their own dedicated page making more information available for users.
 
-![Landing Page](readme-images/landing-page.jpg)
-![Landing Page 2](readme-images/landing-page-2.jpg)
+![Landing Page](docs/readme-images/landing-page.jpg)
+![Landing Page 2](docs/readme-images/landing-page-2.jpg)
 
 #### The Gallery Page
 * The Gallery page contains the photographer's sample works from various photography disciplines. This is to draw attention and establish emotional connection with the users to make them arrive into a decision of availing the service.
 * Each photography disclipine has their own dedicated section and slogan. This facilitates filtered accessibility for users and will make it easier for them to focus on a specific genre of interest.
 
-![Sample Gallery Image](readme-images/gallery-screenshot-1.jpg)
-![Sample Gallery Image 2](readme-images/gallery-screenshot-2.jpg)
+![Sample Gallery Image](docs/readme-images/gallery-screenshot-1.jpg)
+![Sample Gallery Image 2](docs/readme-images/gallery-screenshot-2.jpg)
 
 #### The About Section and Page
 * Located within the homepage, this section provides details about the photographer. It includes the photographer's photo to facilitate rapport building and creating good first impressions.
 
 * This section also has its own dedicated page which can be navigated to using the navigation bar.
 
-![About Section Image](readme-images/about-screenshot-2.jpg)
+![About Section Image](docs/readme-images/about-screenshot-2.jpg)
 
 * After reading about the photographer, this is a perfect opportunity to know more about the offered services, hence, this section features a link to the gallery page to facilitate continuous flow of interest from the client.
 
-![Check out my gallery link image](readme-images/check-out.jpg)
+![Check out my gallery link image](docs/readme-images/check-out.jpg)
 
 #### The Reviews Section and Page
 * The Reviews page contains the reviews and testimonials made by previous clients recapping their experience with the service. This is designed to draw positive impression and reactions from the users. This can also serve as convincing factor for the users.
 
-![Reviews Image](readme-images/reviews-screenshot.jpg)
+![Reviews Image](docs/readme-images/reviews-screenshot.jpg)
 
 * The Reviews section is also readily available on the landing page. In there, it features a link to the dedicated reviews page where more reviews can be found. 
 
-![More Reviews Image](readme-images/more-reviews.jpg)
+![More Reviews Image](docs/readme-images/more-reviews.jpg)
 
 #### The Contact + FAQs Section
 * This section provides the opportunity for the user to communicate any queries or inquiries with the service provider through the use of a form that requires mandatory inputs. The user can also pre-select their photography genre of choice or requirement and can also send a direct message using the message box provided.
 The form features a Reset button and Send button providing convenience to users. 
 * The FAQs subsection is on the right side of the form. This can save the user's time and will deter repetitive questions and can therefore allow the users to utilise the message box better for other more important queries.
 
-![Contacts and FAQ Section Image](readme-images/contacts-faqs-screenshot.jpg)
+![Contacts and FAQ Section Image](docs/readme-images/contacts-faqs-screenshot.jpg)
 
 #### Received Form Page
 * This page appears on successful submission of the contact form. It reassures future clients and provides contact details for urgent inquiries. 
 
-![Received Form Image](readme-images/received-form-screenshot-2.jpg)
+![Received Form Image](docs/readme-images/received-form-screenshot-2.jpg)
 
 ### The Footer
 * The footer is constantly present on all the pages. This features links to MB Photography's various social media accounts. 
 * The footer also includes the photographer's contact details such as email address and mobile number. They are clickable links that will open phone or email windows for user. This allows users to directly contact MB Photography.
 * MB Photography contains original works of authorship and editing, hence, a copyright disclaimer is included at the bottom most part of the footer to preserve the originality of the photographer's works.  
 
-![Footer Image](readme-images/footer-screenshot.jpg)
+![Footer Image](docs/readme-images/footer-screenshot.jpg)
 
 ### Favicon
 
 * The website features a favicon with a round golden image signifying the lens of a camera. This can facilitate easier navigation for users when they have multiple tabs open in one window.
 
-![Favicon](readme-images/favicon-screenshot.jpg)
+![Favicon](docs/readme-images/favicon-screenshot.jpg)
 
 ### Existing Features
 * Website responsive design
@@ -94,38 +94,38 @@ The form features a Reset button and Send button providing convenience to users.
 * Landing Page
 <br>
 
-![Landing page](readme-images/mobile-index.png)
-![Homepage large screen](readme-images/index.png)
+![Landing page](docs/readme-images/mobile-index.png)
+![Homepage large screen](docs/readme-images/index.png)
 
 * Gallery Page
 <br>
 
-![Gallery Page mobile screen](readme-images/mobile-gallery.png)
-![Gallery Page large screen](readme-images/gallery.png)
+![Gallery Page mobile screen](docs/readme-images/mobile-gallery.png)
+![Gallery Page large screen](docs/readme-images/gallery.png)
 
 * About Page
 <br>
 
-![About Page mobile screen](readme-images/mobile-about.png)
-![About Page large screen](readme-images/about.png)
+![About Page mobile screen](docs/readme-images/mobile-about.png)
+![About Page large screen](docs/readme-images/about.png)
 
 * Reviews Page
 <br>
 
-![Reviews Page mobile screen](readme-images/mobile-reviews.png)
-![Reviews Page large screen](readme-images/reviews.png)
+![Reviews Page mobile screen](docs/readme-images/mobile-reviews.png)
+![Reviews Page large screen](docs/readme-images/reviews.png)
 
 * Contact and FAQs Page
 <br>
 
-![Contact and Faq Page mobile screen](readme-images/mobile-contact.png)
-![Contact and Faq Page large screen](readme-images/contact.png)
+![Contact and Faq Page mobile screen](docs/readme-images/mobile-contact.png)
+![Contact and Faq Page large screen](docs/readme-images/contact.png)
 
 * Received Form Page
 <br>
 
-![Received Form Page mobile screen](readme-images/mobile-received-form.png)
-![Received Form Page large screen](readme-images/received-form.png)
+![Received Form Page mobile screen](docs/readme-images/mobile-received-form.png)
+![Received Form Page large screen](docs/readme-images/received-form.png)
 
 ## Technologies
 * HTML 
@@ -191,46 +191,46 @@ Manual testing was also performed and found the following issues that were recti
 * Skipped headings were rectified
 <br>
 
-![Commit screenshot 1](readme-images/accessibility-1.jpg)
-![Commit screenshot 2](readme-images/accessibility-2.jpg)
+![Commit screenshot 1](docs/readme-images/accessibility-1.jpg)
+![Commit screenshot 2](docs/readme-images/accessibility-2.jpg)
 
 * Missing content added but made invisible for design purposes. 
 Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add its functionality.
 <br>
 
-![Commit screenshot 3](readme-images/accessibility-3.jpg)
-![Commit screenshot 4](readme-images/accessibility-4.jpg)
+![Commit screenshot 3](docs/readme-images/accessibility-3.jpg)
+![Commit screenshot 4](docs/readme-images/accessibility-4.jpg)
 
 * Color contrast issue identified in the form within the contact page. Background opacity adjusted.
 <br>
 
-![Commit screenshot 5](readme-images/accessibility-5.jpg)
+![Commit screenshot 5](docs/readme-images/accessibility-5.jpg)
 
 ### Validator Testing 
 * HTML and CSS files were tested and returned with no errors found. [W3C Validator](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used respectively.
 <br>
 
-![Validator Landing Page image](readme-images/index-html.jpg)
+![Validator Landing Page image](docs/readme-images/index-html.jpg)
 
 <br>
 
-![Validator Gallery Page image](readme-images/gallery-html.jpg)
+![Validator Gallery Page image](docs/readme-images/gallery-html.jpg)
 
 <br>
 
-![Validator About Page image](readme-images/about-html.jpg)
+![Validator About Page image](docs/readme-images/about-html.jpg)
 
 <br>
 
-![Validator Reviews Page image](readme-images/reviews-html.jpg)
+![Validator Reviews Page image](docs/readme-images/reviews-html.jpg)
 
 <br>
 
-![Validator Contact and Faqs Page image](readme-images/contacts-html.jpg)
+![Validator Contact and Faqs Page image](docs/readme-images/contacts-html.jpg)
 
 <br>
 
-![Validator CSS image](readme-images/css.jpg)
+![Validator CSS image](docs/readme-images/css.jpg)
 
 ### Functionality Testing
 #### Navigation Links
@@ -264,38 +264,38 @@ Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was c
 Lighthouse testing was also carried out to determine any points of improvement for the website. One identified weakness was the Performance Criteria for the Gallery page scoring only 52.
 <br>
 
-![Gallery page Lighthouse Testing Image - Before](readme-images/gallery-lighthouse-before.jpg)
+![Gallery page Lighthouse Testing Image - Before](docs/readme-images/gallery-lighthouse-before.jpg)
 
 Images were compressed and reduced in size to tackle this issue. No significant reduction in image quality noted.
 <br>
 
-![Gallery Images Before Compression](readme-images/events-gallery-before-compression.jpg)
-![Gallery Images After Compression](readme-images/events-gallery-after-compression.jpg)
+![Gallery Images Before Compression](docs/readme-images/events-gallery-before-compression.jpg)
+![Gallery Images After Compression](docs/readme-images/events-gallery-after-compression.jpg)
 
 Lighthouse testing re-done for gallery page.
 <br> 
 
-![Gallery Page Lighthouse Testing Image - After](readme-images/gallery-lighthouse-after.jpg)
+![Gallery Page Lighthouse Testing Image - After](docs/readme-images/gallery-lighthouse-after.jpg)
 
 The rest of the pages Lighthouse testing results were satisfactory.
 
-![Homepage Lighthouse Testing Image](readme-images/index-lighthouse.jpg)
-![About page Lighthouse Testing Image](readme-images/about-lighthouse.jpg)
-![Reviews page Lighthouse Testing Image](readme-images/reviews-lighthouse.jpg)
-![Contact and Faqs page Lighthouse Testing Image](readme-images/contacts-lighthouse.jpg)
-![Received Form page Lighthouse Testing Image](readme-images/received-form-lighthouse.jpg)
+![Homepage Lighthouse Testing Image](docs/readme-images/index-lighthouse.jpg)
+![About page Lighthouse Testing Image](docs/readme-images/about-lighthouse.jpg)
+![Reviews page Lighthouse Testing Image](docs/readme-images/reviews-lighthouse.jpg)
+![Contact and Faqs page Lighthouse Testing Image](docs/readme-images/contacts-lighthouse.jpg)
+![Received Form page Lighthouse Testing Image](docs/readme-images/received-form-lighthouse.jpg)
 
 ## Bugs
 A few bugs were identified during testing. These were rectified accordingly.
 * Wrong value given to label "for" attribute.
 <br>
 
-![Bug 1 image](readme-images/bug-1.jpg)
+![Bug 1 image](docs/readme-images/bug-1.jpg)
 
 * Contacts link at the footer not functioning.
 <br>
 
-![Bug 1 image](readme-images/bug-2.jpg)
+![Bug 1 image](docs/readme-images/bug-2.jpg)
 
 
 ## Deployment

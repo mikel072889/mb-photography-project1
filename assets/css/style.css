@@ -93,6 +93,12 @@ header a {
     border-bottom: 1px solid #F6ED9B;
 }
 
+/* 404 html file style */
+
+.page-not-found {
+    text-align: center;
+}
+
 /* Navigation bar style with dropdown toggle - Love Running project code used as a template*/
 nav {
     position: absolute;

@@ -335,8 +335,6 @@ Navigate to the GitHub Repository you want to clone to use locally:
 * The project will now of been cloned on your local machine for use.
 
 ## Credits
-* Favicon was created using https://favicon.io/favicon-converter/ website.
-* Google fonts https://fonts.google.com was used.
 * Looka.com https://looka.com was used in creating a logo for MB Photography.
 * https://github.com/Code-Institute-Org/ci-full-template template used from Code Institute.
 * The Love Running walkthrough project from Code Institute was used as a guide in the initial phase of setting up the MB Photography project especially in coding the toggle menu feature.

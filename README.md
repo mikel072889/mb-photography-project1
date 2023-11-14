@@ -78,6 +78,12 @@ The form features a Reset button and Send button providing convenience to users.
 
 ![Favicon](docs/readme-images/favicon-screenshot.jpg)
 
+### 404 Page
+
+* A 404 page is also available should the user navigate to a broken link. This is done with minimal styling and is designed to be user-friendly to show users that we care about their experience and that we want them to remain navigating the website, hence, a link is provided to redirect them to the main landing page.
+
+![Page Not Found Image](docs/readme-images/page-not-found.png)
+
 ### Existing Features
 * Website responsive design
 * Contact form with mandatory inputs and received form page

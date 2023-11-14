@@ -236,6 +236,10 @@ Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was c
 
 <br>
 
+![Validator 404 Page image](docs/readme-images/404-html.jpg)
+
+<br>
+
 ![Validator CSS image](docs/readme-images/css.jpg)
 
 ### Functionality Testing

@@ -354,6 +354,7 @@ Navigate to the GitHub Repository you want to clone to use locally:
 * Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was copied and applied on css file to add a missing content and make it invisible for design but make it accessible at the same time.  
 * Awesome icons were sourced from https://fontawesome.com/.
 * https://techsini.com/multi-mockup/index.php was used to generate mock-ups for this readme file.
+* https://www.youtube.com/@IonaFrisbee youtube channel was used to gather tips and ideas in making the 404 page.
 
 ### Gallery Content/Media
 * All gallery photos were sourced from free photos websites https://pxhere.com/ and https://www.pexels.com/

@@ -245,16 +245,18 @@ Code from https://a11y-guidelines.orange.com/en/articles/accessible-hiding was c
 ### Functionality Testing
 #### Navigation Links
 
-| Navigation Link and other links     | Expected page | PASS/FAIL |
-| ----------------------------------- | ------------- | --------- |
-| MB Photography Logo                 | index.html    | PASS      |
-| Home                                | index.html    | PASS      |
-| Gallery                             | gallery.html  | PASS      |
-| About                               | about.html    | PASS      |
-| Reviews                             | reviews.html  | PASS      |
-| Contact & FAQs                      | contacts.html | PASS      |
-| Check out my gallery                | gallery.html  | PASS      |
-| More Reviews                        | reviews.html  | PASS      |
+| Navigation Link                  | Expected page | PASS/FAIL |
+| -------------------------------- | ------------- | --------- |
+| MB Photography Logo              | index.html    | PASS      |
+| Home                             | index.html    | PASS      |
+| Gallery                          | gallery.html  | PASS      |
+| About                            | about.html    | PASS      |
+| Reviews                          | reviews.html  | PASS      |
+| Contact & FAQs                   | contacts.html | PASS      |
+| Check out my gallery             | gallery.html  | PASS      |
+| More Reviews                     | reviews.html  | PASS      |
+| User navigating to a broken link | 404.html      | PASS      |
+| 404 Page redirect link           | index.html    | PASS      |
 
 #### Contact Form Testing
 
